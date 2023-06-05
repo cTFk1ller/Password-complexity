@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 python3 main.py --password PASSWORD 
 
 # use the -q option to run in quiet mode.
-python3 main.py --url FIREBASE_URL -q
+python3 main.py --password PASSWORD -q
 
 ```
 
