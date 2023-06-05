@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 ## Usage
 
 ```python
-# Check if this app contains a Firebase URL.
+# Check your password's complexity 
 python3 main.py --password PASSWORD 
 
 # use the -q option to run in quiet mode.
